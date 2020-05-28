@@ -1,2 +1,2 @@
 # DIPMidterm
-Digital image processing mdterm event quest
+Digital image processing midterm event quest
